@@ -34,7 +34,11 @@ A Decentralized file sharing mechanism using **QUIC (Quick UDP Internet Connecti
 
 # Introduction
 
-Our project aims to develop a fast, secure, and user-friendly decentralized file sharing system utilizing QUIC transport protocol. We will employ the encryption features of QUIC to ensure the secure transmission of data. Extensive testing and benchmarking will validate the system's effectiveness and superiority over other existing peer-to-peer file sharing systems. This project aims to test a new implementation of decentralized, peer-to-peer file sharing using the QUIC protocol.
+- Develop a fast, secure, and user-friendly decentralized file sharing system utilizing QUIC transport protocol.
+- Use the encryption features of QUIC to ensure the secure transmission of data.
+- Extensive testing and benchmarking will validate the system's effectiveness and superiority over other existing peer-to-peer file sharing systems.
+- Make a proof-of-concept implementation of a hybrid P2P
+  file sharing system using QUIC.
 
 ---
 
