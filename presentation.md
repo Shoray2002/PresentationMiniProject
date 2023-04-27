@@ -144,8 +144,6 @@ Most decentralized file sharing systems use a peer-to-peer (P2P) networking meth
 
 # Workplan (2/2)
 
-### Next
-
 - Implementation phase:
 
   - Implement the QUIC protocol.
@@ -158,6 +156,55 @@ Most decentralized file sharing systems use a peer-to-peer (P2P) networking meth
   - Test the system with different number of peers.
   - Test the system with different file sizes.
 
+---
+
+# Deliverables
+
+- A working implementation of the QUIC protocol.
+- A working implementation of the rendezvous server.
+- A working implementation of the file sharing system.
+- A working implementation of the whole system in a webapp.
+- A report on the whole project.
+
+---
+
+# Contributions (1/4)
+
+- **Shoray Singhal** - LCI2020037
+  - Developed the peer-to-peer networking components of the system.
+  - Conducted performance benchmarking and comparison with
+    other protocols.
+  - Assisted in the development of the user interface for the web.
+    application.
+  - Collaborated with team members to ensure seamless integration of QUIC protocol with other components of the system
+
+---
+
+# Contributions (2/4)
+
+- **Nehal Sharma** - LCS2020001
+  - Researched and implemented the QUIC protocol in the file sharing system
+  - Implemented encryption and cryptographic techniques for secure data transmission.
+  - Assisted in the integration of the QUIC protocol with the rest of the system.
+  - Ensured proper testing and validation of the networking components for optimal performance.
+
+---
+
+# Contributions (3/4)
+
+- **Mili Singh** - LIT2020032
+  - Designed the web application user interface and user experience design.
+  - Worked closely with other team members to ensure a consistent and intuitive user experience throughout the application.
+  - Conducted user testing and gathered feedback for further improvements to the user interface.
+
+---
+
+# Contributions (4/4)
+
+- **Sankalp Sahu** - LCI2020016
+  - Conducted research on blockchain technology for potential integration with the system.
+  - Assisted in the development of the user experience design principles.
+  - Contributed to the finalization of a feasible system architecture and its implementation.
 ---
 
 # References
